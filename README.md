@@ -1,3 +1,5 @@
+heyyy, welcome to the mindfulness blog, Please refer below how stunning the application is : s
+![alt text](image.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

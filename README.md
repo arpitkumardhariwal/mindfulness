@@ -1,4 +1,4 @@
-heyyy, welcome to the mindfulness blog, Please refer below how stunning the application is : s
+heyyy, welcome to the mindfulness blog, Please refer below how stunning the application is : 
 ![alt text](image.png)
 # Getting Started with Create React App
 
